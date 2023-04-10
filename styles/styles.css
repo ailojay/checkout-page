@@ -1,0 +1,71 @@
+
+.m {
+	flex: 50%;
+	margin-left: 200px;
+    
+}
+
+.items {
+    box-sizing: border-box;
+    position: absolute;
+    width: 465px;
+    height: 56px;
+    left: 240px;
+    top: 115.99px;
+}
+
+#text {
+    margin-left: 38px;
+}
+
+#m1 {
+    float: left;
+}
+
+main{
+	display: flex;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#check-label {
+	margin: 23px 0 0 -8px;
+}
+
+#submit-label {
+	margin: 23px 0 159px 305px;
+}
+
+#subbtn {
+	width: 166px;
+	height: 54px;
+	background-color: #f2994a;
+	font-weight: 600;
+	border-radius: 12px;
+	border-style: none;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+.div-3 {
+    display: flex;
+    
+}
+
+.pscode {
+}
+
+.cntry {
+    margin-right: 50px;
+}
+
+/* #subbtn:hover {
+	background-color: rgb(107, 240, 102);
+	color: black;
+	font-weight: 600;
+} */
+
+
+
+
+
+
